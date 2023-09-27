@@ -1,0 +1,13 @@
+{
+  "name": "430-http-api-assignment-ii",
+  "version": "1.0.0",
+  "description": "HTTP API assignment Part 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Test complete\""
+  },
+  "author": "Max Lama",
+  "license": "UNLICENSED"
+}
