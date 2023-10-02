@@ -9,5 +9,10 @@
     "test": "echo \"Test complete\""
   },
   "author": "Max Lama",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.28.1"
+  }
 }
